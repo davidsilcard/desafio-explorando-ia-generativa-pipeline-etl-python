@@ -1,0 +1,6 @@
+UserID,name,account_limit,card_limit,features,news
+1,Ana Souza,5000,3000,"[{""icon"":""https://example.com/pix.png"",""description"":""Conta com Pix ilimitado""}]","[]"
+2,Bruno Lima,9000,4500,"[{""icon"":""https://example.com/invest.png"",""description"":""Acesso ao simulador de investimentos""}]","[{""icon"":""https://example.com/info.png"",""description"":""Bem-vindo ao ambiente de treino ETL""}]"
+3,Carla Nunes,12000,6000,"[{""icon"":""https://example.com/seguro.png"",""description"":""Protecao digital ativa""}]","[]"
+4,Diego Costa,7000,3500,"[{""icon"":""https://example.com/cartao.png"",""description"":""Cartao virtual disponivel no app""}]","[]"
+5,Elisa Rocha,15000,8000,"[{""icon"":""https://example.com/coach.png"",""description"":""Consultoria financeira personalizada""}]","[]"

@@ -1,0 +1,7 @@
+uv sync --dev
+# PowerShell
+.\.venv\Scripts\Activate.ps1
+# Git Bash
+source .venv/Scripts/activate
+uv run black --check .
+uv run jupyter notebook
